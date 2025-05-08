@@ -2,7 +2,11 @@ def main():
     # List of Telugu movie names
     telugu_movies = [
         "Baahubali",
-        "Pushpa",
+        "Salar",
+        "Devara",
+        "Peddi",
+        "Hit3",
+        "Pushpa2",
         "RRR",
         "Arjun Reddy",
         "Ala Vaikunthapurramuloo"
